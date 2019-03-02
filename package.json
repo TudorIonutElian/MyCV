@@ -1,0 +1,20 @@
+{
+  "name": "mycv",
+  "version": "1.0.0",
+  "description": "a simple webpage created as cv",
+  "main": "index.html",
+  "scripts": {
+    "test": "run",
+    "build-css": "node-sass --include-path scss design/scss/styles.scss   design/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TudorIonutElian/MyCV.git"
+  },
+  "author": "TudorIonutElian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TudorIonutElian/MyCV/issues"
+  },
+  "homepage": "https://github.com/TudorIonutElian/MyCV#readme"
+}
